@@ -1,4 +1,4 @@
-# basics
+# Basics
 
 A new Flutter project.
 
